@@ -1,4 +1,4 @@
-from graphic import Line, Point
+from pymaze.graphic import Line, Point
 import random
 import math
 import time

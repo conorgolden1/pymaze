@@ -1,6 +1,9 @@
-from maze_builder import Window, Maze
 import sys
+sys.path.append('../')
 import random
+
+from pymaze.graphic import Window
+from pymaze.maze_builder import Maze
 
 
 def main():
