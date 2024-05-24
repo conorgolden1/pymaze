@@ -3,6 +3,8 @@
 ## Overview
 This repository contains a Python project that constructs and solves mazes using the Tkinter library for graphical representation. The project includes modules for creating the maze, displaying it, and solving it visually.
 
+![PyMaze screenshot](https://github.com/conorgolden1/pymaze/blob/master/screenshots/pymaze_screenshot.png?raw=true)
+
 ## Repository Structure
 ```
 examples/
